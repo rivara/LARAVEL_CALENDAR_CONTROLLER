@@ -730,23 +730,6 @@ class MainController extends Controller
             }
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         return response()->json(array('msg' => $libres), 200);
     }
 
